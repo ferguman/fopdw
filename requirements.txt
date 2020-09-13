@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 dnspython==1.16.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 eventlet==0.25.0
 Flask==1.1.1
 Flask-Cors==3.0.7
